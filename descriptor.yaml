@@ -1,0 +1,10 @@
+code: testproject-bundle
+description: This is the testProject bundle
+
+components:
+  plugins:
+    - plugins/testproject-plugin.yaml
+
+  widgets:
+# entando-needle-descriptor-add-widgets - Entando blueprint will add widget bundle files here
+
